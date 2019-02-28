@@ -29,8 +29,8 @@ h1, p{
 }
 
 .img-item img{
-  width: auto;
-  height: 400px;
+  width: 300px;
+  height: 300px;
 }
 a{
  text-decoration: none;
